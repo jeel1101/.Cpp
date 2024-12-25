@@ -4,7 +4,7 @@ int main()
 {
     int a=10;
     char ch= 'J';
-    float b= 3.14;
+    float b= 3.14f;
     bool c= 0;
     double d= 3132.12345678;
     
